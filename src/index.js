@@ -6,7 +6,7 @@ import './index.css';
 function FancyBorder(props) {
   return (
     <div className={'FancyBorder FancyBorder-' + props.color}>
-      {props.children}
+     1111111 {props.children}1111
     </div>
   );
 }
